@@ -71,6 +71,7 @@ exclamar = lambda s: s+"!"
 gritar = componer_dos(exclamar, mayusculas)
 print(gritar("hola que tal, como vas"))
 
+#EJERCICIO 15
 import time
 
 def auditar_ejecutar(fn_objetivo, fn_logger):
